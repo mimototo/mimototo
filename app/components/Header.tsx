@@ -1,3 +1,9 @@
+import Breadcrumbs from "./Breadcrumb";
+
 export default function Header() {
-  return <div className="flex justify-end m-6"></div>;
+  return (
+    <header className="mb-5">
+      <Breadcrumbs />
+    </header>
+  );
 }
