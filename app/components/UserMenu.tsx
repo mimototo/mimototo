@@ -14,7 +14,7 @@ export default function UserMenu() {
   return (
     <Popover>
       <PopoverTrigger asChild>
-        <Button size="icon" variant="ghost" className="rounded-full">
+        <Button size="icon" variant="ghost" className="rounded-full" asChild>
           <Avatar>
             <AvatarImage
               src="https://pbs.twimg.com/profile_images/1580913575240925186/keU-mf7g_400x400.jpg"
