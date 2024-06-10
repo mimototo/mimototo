@@ -3,7 +3,7 @@ import * as React from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "~/components/ui/card";
 import { Label } from "~/components/ui/label";
 
-export default function Page() {
+export default async function Page() {
   return (
     <Card className="w-auto">
       <CardHeader>
