@@ -18,4 +18,4 @@
 ### 連絡先 📫
 
 - 📧 mail@mimototo.jp
-- 🐦 Twitter: [@Twitter](https://twitter.com/)
+- 🐦 Twitter: [@mimototo](https://x.com/mimototo_)
